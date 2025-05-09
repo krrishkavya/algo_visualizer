@@ -1,7 +1,7 @@
 {
   "name": "algo-visualizer",
   "version": "0.1.0",
-  "homepage": "https://github.com/sujal181218/Algorithm-Visualizer",
+  "homepage": "https://github.com/krrishkavya/Algorithm-Visualizer",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
